@@ -29,9 +29,15 @@ Some thoughts from `@nonverbalpoetry`:
 
 # Etymology
 
-The term "mapcore" was coined on June 5th, 2021 by `@echophon` and `@swampstinks` during the Islands of Stability performance at [Flash Crash 210605](https://flashcrash.net).
+The term "mapcore" was coined on June 5th, 2021 by `@echophon` and `@swampstinks` during the Islands of Stability performance at [Flash Crash 210605](https://flashcrash.net). Other viable names are:
+
+ - mapstep
+ - mapwave
+ - maptrap
 
 ![Etymology](./images/etymology.png)
+
+"Map," of course, comes from the [Maps with Trent](https://llllllll.co/t/31528) series.
 
 # `DEL M: $ $`
 
