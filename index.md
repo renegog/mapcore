@@ -1,6 +1,4 @@
-# "Mapcore is whatever you make while finding your way."
-
-`@reg.barkley`
+# "Mapcore is whatever you make while finding your way." - `@reg.barkley`
 
 # "I have been thinking about mapcore a lot."
 
