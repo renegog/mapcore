@@ -22,6 +22,17 @@ Some thoughts from `@nonverbalpoetry`:
  - Ibid: In the same place.
  - Recursive: *insert meta-recursive joke*.
 
+# The map...
+
+`@license`:
+
+ - ...is some kind of territory.
+ - ...is also an envelope. or maybe a napkin.
+ - ...is disposable, but it leaves a residue on everything around it.
+ - ...didn't crash even though everything else did.
+ - ...is at the center.
+ - ...is off to the side.
+
 # Etymology
 
 The term "mapcore" was coined on June 5th, 2021 by `@echophon` and `@swampstinks` during the Islands of Stability performance at [Flash Crash 210605](https://flashcrash.net). Other viable names are:
