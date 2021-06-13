@@ -1,6 +1,3 @@
-# mapcore
-codex / treatise / recipe / declaration / magna carta / mapcore
-
 # "Mapcore is whatever you make while finding your way."
 
 `@reg.barkley`
