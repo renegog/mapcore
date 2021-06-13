@@ -34,7 +34,7 @@ The term "mapcore" was coined on June 5th, 2021 by `@echophon` and `@swampstinks
 
 "Map," of course, comes from the [Maps with Trent](https://llllllll.co/t/31528) series.
 
-# `DEL M: $ $`
+# DEL M: $ $
 
 ![DEL M: $ $](./images/$$.png)
 
