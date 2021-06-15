@@ -34,6 +34,10 @@ Some thoughts from `@nonverbalpoetry`:
  - ...is off to the side.
  - ...is what you get when you press the `OTHERWISE` button.
 
+and
+
+ - If you think you have "arrived" it's not really mapcore, because then you don't need a map!
+
 # Etymology
 
 The term "mapcore" was coined on June 5th, 2021 by `@echophon` and `@swampstinks` during the Islands of Stability performance at [Flash Crash 210605](https://flashcrash.net). Other viable names are:
