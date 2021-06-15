@@ -32,6 +32,7 @@ Some thoughts from `@nonverbalpoetry`:
  - ...didn't crash even though everything else did.
  - ...is at the center.
  - ...is off to the side.
+ - ...is what you get when you press the `OTHERWISE` button.
 
 # Etymology
 
