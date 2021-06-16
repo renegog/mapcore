@@ -1,5 +1,7 @@
 # "Mapcore is whatever you make while finding your way." - `@reg.barkley`
 
+# "Mapcore: when you stop limiting your slew" - `@scanner_darkly`
+
 # "I have been thinking about mapcore a lot."
 
 Some thoughts from `@nonverbalpoetry`:
