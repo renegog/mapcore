@@ -1,6 +1,11 @@
 # "Mapcore is whatever you make while finding your way." - `@reg.barkley`
 
 # "Mapcore: when you stop limiting your slew" - `@scanner_darkly`
+and
+```
+mapcore: you need at least 20
+characters, but no more than 30. or maybe 31.
+```
 
 # "I have been thinking about mapcore a lot."
 
